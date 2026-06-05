@@ -1,2 +1,2 @@
-image: martynpearce5065/vat:<+pipeline.sequenceId>
+image: martynpearce5065/vat:4
 replicas: 1
